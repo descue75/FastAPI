@@ -1,6 +1,26 @@
 # FastAPI
 
-Playing with FastAPI
+Local Requirements: Git, Python
+
+Clone the repository
+
+```
+git clone https://github.com/descue75/FastAPI.git
+cd FastAPI
+```
+
+Create a virtual enironment
+
+```
+python -m venv .venv
+```
+
+Activate virtual environment
+
+```
+On Windows: .venv\Scripts\activate
+On macOS / Linux: source .venv/bin/activate
+```
 
 Install dependencies
 
