@@ -1,4 +1,5 @@
 # FastAPI
+[Ultimate Guide to FastAPI and Backend Development](https://www.udemy.com/course/fastapi-guide/)
 
 Setup
 
